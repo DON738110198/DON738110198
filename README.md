@@ -1,7 +1,10 @@
 - 👋 Hi, I’m @DON738110198
 - 👀 I’m interested in coding
+- 
 I am studying in SCNU now.
+
 Here is my WeChat number as well as my phone number 13650860369
+
 The "DON" in my user name means "Determination Over Negative",I think it is such a powerful sentence。
 
 <!---
