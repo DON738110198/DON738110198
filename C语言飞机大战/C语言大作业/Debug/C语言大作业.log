@@ -1,0 +1,3 @@
+﻿  源.cpp
+D:\C项目\C语言大作业\C语言大作业\源.cpp(73,15): error C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+D:\C项目\C语言大作业\C语言大作业\源.cpp(74,6): error C4996: 'kbhit': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _kbhit. See online help for details.
